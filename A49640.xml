@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last newes from Ireland being a true relation of all most remarkable occurrences which hath lately happened concerning the state of that oppressed and distracted kingdome : sent over from Ireland to one Master Dobbins in London : as also the view and consideration of some Scotch forces which were sent over for the supply of Ireland to be under the command of Sir William Belfore, late Lieutenant of the Tower in London : together with a list of the field-officers chosen and appointed for the Irish expedition, by the committee at Guild-Hall London, for the regiments of 5000 foot, and 500 horse under the command of Philip Lord Wharton, Baron of Scarborough, Lord Generall of Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49640</idno><idno type="EEBO-CITATION">12210072</idno>
+  <idno type="VID">56267</idno>
+  <idno type="EEBO-PROQUEST">2240930546</idno>
+  
+            <idno type="STC">Wing L494</idno>
+            <idno type="STC">ESTC R16636</idno>
+            <idno type="OCLC">12210072</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56267)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last newes from Ireland being a true relation of all most remarkable occurrences which hath lately happened concerning the state of that oppressed and distracted kingdome : sent over from Ireland to one Master Dobbins in London : as also the view and consideration of some Scotch forces which were sent over for the supply of Ireland to be under the command of Sir William Belfore, late Lieutenant of the Tower in London : together with a list of the field-officers chosen and appointed for the Irish expedition, by the committee at Guild-Hall London, for the regiments of 5000 foot, and 500 horse under the command of Philip Lord Wharton, Baron of Scarborough, Lord Generall of Ireland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Green and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56267:1"/>
+            <pb facs="tcp:56267:1"/>
+            <p>The Last NEWES FROM IRELAND BEING A TRUE RELATION OF ALL most remarkable Occurrences which hath lately happened concerning the state of that oppressed and distracted Kingdome.</p>
+            <p>Sent over from <hi>Ireland</hi> to one Master <hi>Dobbins</hi> in <hi>LONDON.</hi>
+            </p>
+            <p>As also the view and consideration of some <hi>Scotch</hi> Forces which were sent over for the supply of Ireland to be under the Command of Sir <hi>William Belfore,</hi> late Lieutenant of the Tower in <hi>London.</hi>
+            </p>
+            <p>TOGETHER WITH A LIST OF THE FIELD-Officers chosen and appointed for the <hi>Irish</hi> Ex<g ref="char:EOLhyphen"/>pedition, by the Committee at Guild-hall London, for the Regiments of 5000. foot, and 500. horse Under the command <hi>Philip</hi> Lord <hi>Wharton</hi> Baron of Scarborough, Lord Gene<g ref="char:EOLhyphen"/>rall of <hi>Ireland.</hi>
+            </p>
+            <p>June 13. <hi>London,</hi> Printed for <hi>I. Green.</hi> and <hi>A. Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:56267:2"/>
+            <pb facs="tcp:56267:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Countrey-man <hi>Henry Barns<g ref="char:EOLhyphen"/>ley,</hi> Sir <hi>Nicholas Whites</hi> Priest, stands indicted at the Kings Bench for Treason, but it will be <hi>Mi<g ref="char:EOLhyphen"/>chaelmas Tearme</hi> before the formalities of the Law wil be compleated to have him out-lawed; if in the meane time you desire a Copie of the Indictment, you may have it, but I conceive it can availe little untill hee bee sued to an Out<g ref="char:EOLhyphen"/>lary.</p>
+            <p>Captaine <hi>Sterling,</hi> who was Garrisond at <hi>Dunslagan</hi> below <hi>Dubbor,</hi> being one Friday last invited with his Lieutenant and Arch-deacon <hi>Watson,</hi> by one <hi>Dillon</hi> in the County of <hi>Meath</hi> (who had a pro<g ref="char:EOLhyphen"/>tection from the State) to dinner, and to be merry with him, who accordingly went with some few Musketeeres, and
+<pb facs="tcp:56267:3"/> were merry, in the meane time a com<g ref="char:EOLhyphen"/>pany of Rogues, who lay in ambush for them, rusht in and cut them all off. Cap<g ref="char:EOLhyphen"/>taine <hi>Sterlings</hi> Corps was brought to Towne yesterday morning. The last weeke a Lieutenant M. <hi>Donell</hi> a <hi>Scotch<g ref="char:EOLhyphen"/>man,</hi> was shot to death for killing a wo<g ref="char:EOLhyphen"/>man which hee met in the streets w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o gave him ill Language, whereupon <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee drew his Sword and runne her thorow. And one of your Countrey-men, a <hi>Glou<g ref="char:EOLhyphen"/>cester shire</hi> man escaped his necke very narrowly, for laying downe his Armes, and denying to take them up againe, un<g ref="char:EOLhyphen"/>till he had received his pay; I saw him on the Ladder and ready to be turnd off, but presently there was a cry of a pardon (but indeed there was no such intention) wherupon the Soldiers instantly brought him down and carryed him away in de<g ref="char:EOLhyphen"/>spight of the Provost Martiall and his Traine; there were swords drawne a<g ref="char:EOLhyphen"/>bout it, but no hurt done. The Souldiers begin to very insolent for want of pay. Your good friend <hi>Charles Dodeswell</hi> is
+<pb facs="tcp:56267:3"/> principall Secretary to the Earle of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> his predecessour Mr. <hi>Smith</hi> is gone into Rebellion.</p>
+            <p>The Blessings of God (<hi>Brother</hi>) unto sinful man are infinite, and the meanes by which hee is pleased to assist and deliver his children from imminent danger, are most incomprehensible unto the dull ca<g ref="char:EOLhyphen"/>pacity of fraile man. Witnesse his often deliverances to our poore distressed Bre<g ref="char:EOLhyphen"/>thren here in <hi>Ireland,</hi> whom his mercy hath so often delivered from the jawes of death and destruction, and from the bloud-thirsty persecution of the insolent and cruell enemy. Nay even when they seemed lost, and had given themselves o<g ref="char:EOLhyphen"/>ver as a prey unto their malice, then hath it pleased Almighty God to raise unto them most unexpected meanes for their deliverance, the faithfull and Religious Scotchmen to visit the Neighbouring Brothers in the depth of their calamity who with the hazard of their own lives and fortunes, did endeavour to asswage the swelling enemy, and to revenge their
+<pb facs="tcp:56267:4"/> wrongs with the danger of their owne safety. What hath beene a long time ex<g ref="char:EOLhyphen"/>pected and wished, is now put into pra<g ref="char:EOLhyphen"/>ctice and execution, and about the 16. of <hi>May</hi> General <hi>Lesley</hi> was shipt with 6000 foot, provided for the succour and re<g ref="char:EOLhyphen"/>liefe of <hi>Ireland,</hi> and 1000. horse were al<g ref="char:EOLhyphen"/>so at the same time on ship-boord, which were to be disciplind and commanded by Sir <hi>William Belfore</hi> late Lieutenant of the Tower of <hi>London,</hi> unto whose pious and Religious proceedings God of his great and infinite mercy send happy and and deserving successe, so that <hi>Jerusalem</hi> againe may flourish, and that we may a<g ref="char:EOLhyphen"/>gaine enjoy peace within the walls of <hi>Sion,</hi> and behold all her now ruind and demolisht buildings new built and beau<g ref="char:EOLhyphen"/>tifull.</p>
+            <trailer>FINJS.</trailer>
+         </div>
+         <div type="list_of_field_officers">
+            <pb facs="tcp:56267:4"/>
+            <head>A List of the Field-Officers chose ad appoited for the <hi>Irish</hi> Ex<g ref="char:EOLhyphen"/>pedition, by the Committee at Guildhall London, for the Regiments of 5000. Foot, and 500. Horse, Under the Command of <hi>Philip Lord Wharton, Baron of Scarborough, lord Generall for Ireland.</hi>
+            </head>
+            <list>
+               <head>Troops of Horse.</head>
+               <item>
+                  <list>
+                     <head>Colonell Generalls Troop.</head>
+                     <item>CAptain <hi>Ralfe Whistler.</hi>
+                     </item>
+                     <item>Cornet <hi>Peter Wate.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Nicholas Batterby.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals.</head>
+                           <item>Conyers Cooper.</item>
+                           <item>Bartho. Johnson.</item>
+                           <item>Ralph Henery.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Second Troop <hi>Lord Broghill.</hi>
+                     </head>
+                     <item>Lievtenant <hi>Iohn Allen.</hi>
+                     </item>
+                     <item>Cornet <hi>Cecill Ashcough.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Tho. Hudson.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>Geo. Staples.</item>
+                           <item>Robert Bennet.</item>
+                           <item>Thomas Allen.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Third troop <hi>Sir Faithfull Fortescue.</hi>
+                     </head>
+                     <item>Lievtenant <hi>Francis Dovet</hi>
+                     </item>
+                     <item>Cornet <hi>Tho. Fortescue.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Io. Coyshe.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>
+                              <hi>Io. Vangorich.</hi>
+                           </item>
+                           <item>
+                              <hi>Io. Marshall.</hi>
+                           </item>
+                           <item>
+                              <hi>Ralph Walcot.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Fourth troop <hi>Liev. Colonel Io. Hurry.</hi>
+                     </head>
+                     <item>Lievtenant <hi>William Mercer.</hi>
+                     </item>
+                     <item>Cornet <hi>Sedescue.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Io. Pearne.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>
+                              <hi>Ralph Vickerman.</hi>
+                           </item>
+                           <item>
+                              <hi>Rich. Whymper.</hi>
+                           </item>
+                           <item>
+                              <hi>Will. Crane.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Fifth troop <hi>Alexander Nayrne.</hi>
+                     </head>
+                     <item>Lievtenant <hi>William Hyde.</hi>
+                     </item>
+                     <item>Cornet <hi>Marmaduke Cooper.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Francis Fook.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>
+                              <hi>Nath. Walmsley.</hi>
+                           </item>
+                           <item>
+                              <hi>Hugh Farr.</hi>
+                           </item>
+                           <item>
+                              <hi>Hen. Ballard</hi> his Ensigne.</item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Sixth troop <hi>Io.Trenchard.</hi>
+                     </head>
+                     <item>Lievtenant <hi>Adem Baynard.</hi>
+                     </item>
+                     <item>Cornet <hi>Io. Hyde.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Francis Fook.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>
+                              <hi>Jo. Freake.</hi>
+                           </item>
+                           <item>
+                              <hi>Io. Starkey.</hi>
+                           </item>
+                           <item>
+                              <hi>Tho. Gwalter.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+                  <list>
+                     <head>Seventh troop <hi>William St. Leger.</hi>
+                     </head>
+                     <item>Lievtenant <hi>Ed. Leventhorp.</hi>
+                     </item>
+                     <item>Cornet <hi>Skrynsheere.</hi>
+                     </item>
+                     <item>Quartermaster <hi>Philip Vanderhiden.</hi>
+                     </item>
+                     <item>
+                        <list>
+                           <head>Corporals</head>
+                           <item>
+                              <hi>Ed. Gray.</hi>
+                           </item>
+                           <item>
+                              <hi>Niaho Phipp.</hi>
+                           </item>
+                           <item>
+                              <hi>Robert Wood.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Foot Companies.</head>
+               <item>COlonell Generall.
+<list>
+                     <item>His Captain <hi>Edward Massy.</hi>
+                     </item>
+                     <item>His Ensigne <hi>Oliver Cromwell.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>Lievtenant Colonell and Serieant Maior Generall <hi>Ieremy Horton.</hi>
+                  <list>
+                     <item>His Lievtenant <hi>Tho. Browne.</hi>
+                     </item>
+                     <item>His Ensigne <hi>Ed. Greene.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Serjeant Major Owen Parry,</hi>
+                  <list>
+                     <item>
+                        <hi>His lieutenant Ed. Browne,</hi>
+                     </item>
+                     <item>
+                        <hi>His Ensigne Rob. Hewes,</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>First Captaine Vincent Calmady.</hi>
+                  <list>
+                     <item>
+                        <hi>his lieutenant Edward Tyrer.</hi>
+                     </item>
+                     <item>
+                        <hi>his Ensigne Richard Bland.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Second Captaine Robert long.</hi>
+                  <list>
+                     <item>
+                        <hi>his lieutenant Tho. Allanby.</hi>
+                     </item>
+                     <item>
+                        <hi>his Ensigne Roger Moore.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <list>
+                     <item>
+                        <hi>Third captaine Henry Carew.</hi>
+                        <list>
+                           <item>his lieutenant Charles Holcroft.</item>
+                           <item>his Ensigne William heyden.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Fourth captaine Henry Skipwith.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Joh. Ivey.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Oliver St. John,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Fifth capt. of Firelocks Elias Struice</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Ed. Gray.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Tho. Barber.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:56267:5"/>
+                     <item>
+                        <hi>Second Colonel lord Kerry▪</hi>
+                        <list>
+                           <item>
+                              <hi>his Captaine Robert Hamond.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Richard Bagot.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Lieutenant Colonell Henry Shelley.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Io. Ramsford.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Jo. Ashfield.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Serjeant Major Daniel Goodrick.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Geo. <gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>owe<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Charles Blount.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>First captaine Charles Dawson.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Philip Meautas.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Jacob Stringer.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Second Captain Herbert Blankehard</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Morgan Tinny.</hi>
+                           </item>
+                           <item>
+                              <hi>his ensigne Christopher chudley.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Third cap. Agmondisham Muschamp</hi>
+                        <list>
+                           <item>
+                              <hi>his Lieutenant William Dothwaire</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Gervase Brach.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Fourth cap. Paul Wats.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Andr. Manwarring.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Tho. Barriffe.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Fifth capt. for Firelocks Wil. Lower.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> Redman.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Jo. Raymond.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Third Colonell Tho. Ballard.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Tho. Grover,</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne leonard Morton.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Lieutenant Colonel Sir Edw, Denny</hi>
+                        <list>
+                           <item>
+                              <hi>his Liutenant Ed, Oding<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>els,</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne William Garfoot,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Serjeant Maior Francis Martin</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Rob, Noyce,</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne Io, Hardy,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>First captaine Cap. Primrose,</hi>
+                        <list>
+                           <item>
+                              <hi>his Lieutenant Edward Norbury</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensigne William Powlis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Second captaine Edward Allen.</hi>
+                        <list>
+                           <item>
+                              <hi>his lieutenant Fra. Bowyer.</hi>
+                           </item>
+                           <item>
+                              <hi>his Ensign Robert Goodwin</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Third Capten <hi>Fran. Fook.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Tho. Nayerne.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Hen. Higgins.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fourth Captain <hi>Thomas Middleton</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Io. Lookar</hi>
+                           </item>
+                           <item>his Ensigne <hi>Charles Parker.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fif<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h Capt. firelocks <hi>Peter Nursord.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Robert Davis.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Hen. Cope.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fourth <hi>Charles Essex.</hi>
+                        <list>
+                           <item>his Captain <hi>Fran. Hall.</hi>
+                           </item>
+                           <item>his Ensig e <hi>Io. Shiqman.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Lievtenant Col. <hi>Adam Cunningham.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Peter Crispe.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Leooard Hawkins.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Serieant Maior <hi>Tho. Ogle.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Iames Webb.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Richard Osborne.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>First Cap<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>in <hi>William Roberts.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Ambrose Tindall.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Io. Watkins.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Second Captin <hi>George Narrow.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>Edward Banwell.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Tom. Paramoure.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Third Captaien <hi>Constance Ferrer.</hi>
+                        <list>
+                           <item>his Lievtenant <hi>William Hewet.</hi>
+                           </item>
+                           <item>his Ensine <hi>Io. Hemings,</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fourth Captain <hi>Sam, Loftus.</hi>
+                        <list>
+                           <item>his lievtenant <hi>Iames Barrell.</hi>
+                           </item>
+                           <item>his Ensigne <hi>Fran. Butler.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fifth Cart. for Fire-locks. <hi>Iohn iinkins,</hi>
+                        <list>
+                           <item>his lievtenant <hi>Bartho, Elecot,</hi>
+                           </item>
+                           <item>his Ensigne <hi>Mr. Wayte.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <pb facs="tcp:56267:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
